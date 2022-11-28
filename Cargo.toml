@@ -1,13 +1,16 @@
 [package]
 name = "swc-plugin-vue-macros-define-render"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
 
 [lib]
 crate-type = ["cdylib"]
 
 [profile.release]
+# <https://swc.rs/docs/plugin/publishing#advanced-improving-your-plugin>
 lto = true
+codegen-units = 1
+opt-level = "s"
 
 [dependencies]
 serde = "1"

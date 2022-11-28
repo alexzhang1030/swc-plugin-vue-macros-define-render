@@ -1252,7 +1252,7 @@ dependencies = [
 
 [[package]]
 name = "swc-plugin-vue-macros-define-render"
-version = "0.1.0"
+version = "0.0.1"
 dependencies = [
  "serde",
  "swc_core",
