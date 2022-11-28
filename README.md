@@ -1,4 +1,4 @@
-# define render macros by swc
+# define render macro by swc
 
 from
 
