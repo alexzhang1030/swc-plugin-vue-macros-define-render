@@ -2,3 +2,4 @@
 ^target/
 target
 node_modules
+swc_plugin_vue_macros_define_render.wasm
