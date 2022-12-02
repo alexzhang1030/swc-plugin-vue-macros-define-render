@@ -1,6 +1,6 @@
 # define render macro by swc
 
-[Vue Macro Define-Render](https://github.com/sxzz/unplugin-vue-macros/tree/main/packages/define-render)'s SWC version implement.
+[Vue Macro Define-Render](https://github.com/sxzz/unplugin-vue-macros/tree/main/packages/define-render)'s SWC version implementation.
 
 from
 
